@@ -106,7 +106,7 @@ Fails:
 Solution 3.  
 
 Lessons learned:  
-- one iterator is sometimes not enough for solving array-based problems  
+- one index is sometimes not enough for solving array-based problems  
 
 ```python  
 class Solution:
